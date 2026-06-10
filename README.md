@@ -3,17 +3,15 @@
 
 <h2>Goal</h2>
 Evaluate the distribution and efficiency of government-funded projects across the Philippines in the year 2020.
-<br />
-<br />
 
-Questions:
+<h2>Objectives</h2>
+
 1. Present 2020 budget by City.
 2. Identify top 3 most effective Senators at driving projects to "Completed" status in year 2020.
 3. Compare 2020 Project budgets between Focus Area.
 4. Visualize 2020 budget by Region.
 
 <h2>Insights</h2>
-<br />
 
 1. The city of Pasig had the highest 2020 budget with P471 million and Manila had the lowest with P79 million.
 2. The 3 most effective Senators with "Completed" projects in 2020 are Loren Legarda (9), Cynthia Villar (7), and Risa Hontiveros (7).
