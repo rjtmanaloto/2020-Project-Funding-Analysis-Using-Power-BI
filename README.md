@@ -2,6 +2,7 @@
 
 
 <h2>Goal</h2>
+
 Evaluate the distribution and efficiency of government-funded projects across the Philippines in the year 2020.
 
 <h2>Objectives</h2>
@@ -21,9 +22,13 @@ Evaluate the distribution and efficiency of government-funded projects across th
 Overall, the analysis shows that with regards to the 2020 budget, the city of Pasig had the highest (P471 million) and Manila had the lowest (P79 million), the focus area of Health and Education had the highest (P506 million) and Labor and Employment had the lowest (P95 million), the region of NCR had the highest (P1,343 billion) and Zamboanga Peninsula had the lowest (P119 million). The most effective 2020 Senators are Loren Legarda who completed 9 projects, Cynthia Villar who completed 7, and Risa Hontiveros who also competed 7.
 
 <h2>Tools Used</h2>
-- <b>Power BI, Excel, Copilot</b> 
+
+- <b>Power BI</b>
+- <b>Excel</b>
+- <b>Copilot</b> 
 
 <h2>Environments Used</h2>
+
 - <b>Windows 11</b>
 
 <h2>Screenshots</h2>
